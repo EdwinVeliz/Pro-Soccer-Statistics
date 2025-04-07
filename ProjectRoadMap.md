@@ -1,1 +1,2 @@
-
+- [ ] Create title for Program
+- [ ] Gather project idea and it's description 
