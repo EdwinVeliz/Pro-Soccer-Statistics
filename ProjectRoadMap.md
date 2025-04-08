@@ -3,3 +3,6 @@
 - [x] Create a collaborative repository for my team
 - [x] Create README.md
 - [ ] Find a data source similiar and other repositories to help create a further idea....
+- [ ] Schedule presentation in Teams
+- [ ] Plan goals for the project
+- [ ] Create PowerPoint presentation
