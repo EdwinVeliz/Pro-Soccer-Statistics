@@ -2,6 +2,9 @@
 - [x] Gather project idea and it's description of Pro-Soccer-Stastics
 - [x] Create a collaborative repository for my team
 - [x] Create README.md
+- [ ] Create Sample_players.csv
+- [ ] Create data_loader.py
+- [ ] Create radar_chart.py
 - [ ] Find a data source similiar and other repositories to help create a further idea....
 - [x] Schedule presentation in Teams
 - [x] Plan goals for the project
