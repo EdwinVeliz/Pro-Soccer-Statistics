@@ -6,7 +6,7 @@ def main():
     df = load_player_data(filepath)       # load the data using pandas
 
     if df is not None:
-        print("\n📋 Available players:")
+        print("\n Available players:")
         for name in df['Name']:
             print(f"- {name}")
 
